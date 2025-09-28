@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                // modern JS features supported by Node
+    "module": "commonjs",              // Express works well with CommonJS
+    "rootDir": "./src",                // where your TS files live
+    "outDir": "./dist",                // compiled JS output
+    "strict": true,                    // enable strict type checking
+    "esModuleInterop": true,           // allow default imports from CJS modules
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "types": ["node"]                  // include Node.js types
+  },
+  "include": ["src"],                  // compile everything in src/
+  "exclude": ["node_modules"]          // ignore dependencies
+}
