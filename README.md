@@ -1,2 +1,2 @@
 # ai-journey-stack
- production-grade repository showcasing secure, scalable, and real-world AI implementations across multiple domains — including Generative AI, NLP, Computer Vision, Responsible AI, and DevOps integration.Each project reflects hands-on mastery of Azure AI services, with a focus on clarity, modular architecture
+A modular repository for building secure, scalable, and real-world AI solutions using Azure. This stack will evolve to include practical implementations across Generative AI, NLP, Computer Vision, Responsible AI, and DevOps integration
