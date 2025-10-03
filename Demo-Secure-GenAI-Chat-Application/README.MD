@@ -1,4 +1,4 @@
-# 🚀 Demo-Secure-GenAI-Chat-Application
+#  Demo-Secure-GenAI-Chat-Application
 
 A **secure GenAI-powered Chat Application** built on **Azure OpenAI GPT-4o** with **RAG (Retrieval-Augmented Generation)** and **Prompt Flow** for orchestration.
 The app ensures **enterprise-grade security** using **Azure Key Vault** and is deployed on **Azure App Service** with a **React + Vite frontend** and **Node.js/TypeScript backend API**.
