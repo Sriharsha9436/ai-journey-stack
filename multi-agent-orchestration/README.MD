@@ -2,7 +2,7 @@
 
 This repository demonstrates a multi-agent orchestration system using Azure AI Foundry GPT-4o Mini. The system orchestrates three agents: Summarizer, Classifier, and Recommender. Users can input queries, and the system generates a summary, classifies the input, and provides actionable recommendations.
 
-![multi-agent-orchestration](assests/flow_diagram.png)
+![multi-agent-orchestration](assets/flow_diagram.png)
 
 ## 📂 Folder Structure
 
