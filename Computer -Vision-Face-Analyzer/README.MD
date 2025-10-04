@@ -114,11 +114,6 @@ streamlit run face_api_ui.py
 
 ✅ Sample images tested are from MS Learn labs.
 
-## 📸 Screenshots
-
-| UI Screenshot | Output Screenshot |
-|--------------|-------------------|
-| ![UI Screenshot](Screenshots/Working user interface.png) | ![Output Screenshot](Screenshots/output.png) |
 
 ## 🚀 Future Enhancements
 
