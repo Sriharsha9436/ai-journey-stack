@@ -118,7 +118,7 @@ streamlit run face_api_ui.py
 
 | UI Screenshot | Output Screenshot |
 |--------------|-------------------|
-| ![UI Screenshot](Screenshots/ui_screenshot.png) | ![Output Screenshot](Screenshots/output_screenshot.png) |
+| ![UI Screenshot](Screenshots/Working user interface.png) | ![Output Screenshot](Screenshots/output.png) |
 
 ## 🚀 Future Enhancements
 
