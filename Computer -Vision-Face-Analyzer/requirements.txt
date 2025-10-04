@@ -1,0 +1,4 @@
+azure-ai-vision-face==1.0.0b2
+azure-core
+pillow
+python-dotenv
